@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you use this repo, please cite it as below.
+title: ChannelViT-HetWet: Multiband Vision Transformer training scaffold
+authors:
+  - family-names: Malaekeh
+    given-names: Sayedmorteza
+    name-particle: 
+    name-suffix: 
+    orcid: 
+date-released: 2025-09-29
+version: 0.1.0
+license: MIT

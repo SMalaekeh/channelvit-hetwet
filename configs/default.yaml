@@ -1,0 +1,16 @@
+# Example Hydra-style config (not strictly required by train.py stub)
+data_dir: data/
+channels: 4
+img_size: 224
+batch_size: 16
+num_workers: 4
+max_epochs: 10
+lr: 3e-4
+model_name: vit_base_patch16_224
+num_classes: 2
+accelerator: auto
+devices: 1
+seed: 42
+use_wandb: false
+project: channelvit-hetwet
+run_name: null

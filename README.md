@@ -113,14 +113,5 @@ class RasterStackDataset(torch.utils.data.Dataset):
 
 ---
 
-## Tips for showcasing this repo in DS job applications
-- Create a short **Results** section here with key numbers and a figure.
-- Link a **demo notebook** and a **saved checkpoint** (e.g., `experiments/best.ckpt` on a release).
-- Add a small **ablation study** (e.g., channels=3 vs channels=4+; patch size).
-- Include **data cards** summarizing sources, licenses, and preprocessing.
-- Enable **GitHub Pages** and render `docs/` or a minimal project site.
-
----
-
 ## License
-MIT © 2025 Sayedmorteza Malaekeh (Ali)
+MIT © 2025 Sayedmorteza Malaekeh
